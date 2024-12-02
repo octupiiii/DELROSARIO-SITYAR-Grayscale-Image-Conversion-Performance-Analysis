@@ -63,7 +63,9 @@ The tests were conducted with the following image sizes:
 
 ## **Conclusion**
 
-The program provides a comparative analysis of the performance of C and Assembly implementations for converting grayscale images. **Key Findings**:
+The program provides a comparative analysis of the performance of C and Assembly implementations for converting grayscale images. 
+
+**Key Findings**:
 - The **C Kernel** outperformed the **ASM Kernel** in terms of average execution time:
   - **C Average**: **0.002 seconds**
   - **ASM Average**: **0.0036 seconds**
