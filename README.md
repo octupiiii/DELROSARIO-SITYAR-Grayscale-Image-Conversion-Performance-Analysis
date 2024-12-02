@@ -39,11 +39,6 @@ The tests were conducted with the following image sizes:
 ## **Sample Results**
 
 ### **10 × 10 Pixels**
-#### Debug Mode  
-![10x10 debug](./Screenshots/Debug_10x10.JPG)  
-
-#### Release Mode  
-![10x10 release](./Screenshots/Release_10x10.JPG)
 
 ### **100 × 100 Pixels**
 
