@@ -67,7 +67,7 @@ The program provides a comparative analysis of the performance of C and Assembly
 - The **C Kernel** outperformed the **ASM Kernel** in terms of average execution time:
   - **C Average**: **0.002 seconds**
   - **ASM Average**: **0.0036 seconds**
-- Compiler optimizations in **release mode** likely contributed to the superior performance of the C kernel.
+- Compiler optimizations likely contributed to the superior performance of the C kernel.
 
 Further improvements could focus on:
 - Exploring advanced SIMD instructions.
