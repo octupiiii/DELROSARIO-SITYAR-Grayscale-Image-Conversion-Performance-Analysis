@@ -2,7 +2,7 @@
 
 ### The program is done under the requirements of **LBYARCH’s MP2** with the following specs:
 <img src="./screenshots/Specs.jpg" alt="LBYARCH specs" width="750">
-
+### By: del Rosario, Johann James & Sityar, Lester Anthony Jr.
 ---
 
 ### **Code**
