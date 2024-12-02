@@ -58,8 +58,15 @@ The tests were conducted with the following image sizes:
 - **C Kernel**: 0.002 seconds  
 - **ASM Kernel**: 0.004 seconds  
 
+---
+
+## **Sample Output**
+
+<img src="./screenshots/SampleOutput.jpg" alt="LBYARCH specs" width="750">
 
 ---
+
+
 
 ## **Conclusion**
 
