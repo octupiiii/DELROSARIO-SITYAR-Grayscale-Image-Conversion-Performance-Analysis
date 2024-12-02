@@ -32,7 +32,6 @@ The tests were conducted with the following image sizes:
 - **10 × 10 pixels**
 - **100 × 100 pixels**
 - **1000 × 1000 pixels**
-- **10000 × 10000 pixels**
 
 ---
 
@@ -43,8 +42,6 @@ The tests were conducted with the following image sizes:
 ### **100 × 100 Pixels**
 
 ### **1000 × 1000 Pixels**
-
-### **10000 × 10000 Pixels**
 
 ---
 
