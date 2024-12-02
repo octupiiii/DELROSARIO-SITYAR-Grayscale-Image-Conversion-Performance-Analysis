@@ -1,7 +1,7 @@
 # **Grayscale Image Conversion Performance Analysis**
 
 ### The program is done under the requirements of **LBYARCH’s MP2** with the following specs:
-<img src="./screenshots/Specs.png" alt="LBYARCH specs" width="750">
+<img src="./screenshots/Specs.jpeg" alt="LBYARCH specs" width="750">
 
 ---
 
